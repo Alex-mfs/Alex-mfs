@@ -5,11 +5,6 @@
 
 Here are some ideas to get you started:
 
-## GitHub Stats
-
-[![Alex-mfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-mfs&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/Alex-mfs?tab=repositories) 
-[![Alex-mfs's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-mfs&layout=compact&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/Alex-mfs?tab=repositories)
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub Stats
+
+[![Alex-mfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-mfs&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/Alex-mfs?tab=repositories) 
+[![Alex-mfs's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-mfs&layout=compact&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/Alex-mfs?tab=repositories)
