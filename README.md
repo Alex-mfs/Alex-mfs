@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Alex-mfs/Alex-mfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Alex Freire · Developer (C/C++/Systems)
+
+Hi! I’m a 42 Porto student focused on **C/C++**, networks and system programming.  
+
+## Featured Projects
+- **[ft_irc](https://github.com/Alex-mfs/ft_irc)** — IRC server in C++98 with `poll()`, channel modes (+i +t +k +l +o), private messages, topics.
+- **[cub3D](https://github.com/Alex-mfs/cub3d)** — raycasting 3D engine in C with MiniLibX (textures, wall collisions, minimap, Wolf3D-style rendering).
+- **[Minishell](https://github.com/Alex-mfs/Minishell)** — small bash-like shell in C with pipes, redirections, `$VAR` expansion, signals, exit status.
+- **[so_long](https://github.com/Alex-mfs/so_long)** — 2D game in C with MiniLibX (map parsing, sprites, collision).
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/alex-mfs/
 
 ## GitHub Stats
 
