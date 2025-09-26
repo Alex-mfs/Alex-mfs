@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Alex Freire · Developer (C/C++/Systems)
 
-Hi! I’m a 42 Porto student focused on **C/C++**, networks and system programming.  
+Hi! I’m Alex, a 42 Porto student focused on **C/C++**, networks and system programming.  
 
 ## Featured Projects
 - **[ft_irc](https://github.com/Alex-mfs/ft_irc)** — IRC server in C++98 with `poll()`, channel modes (+i +t +k +l +o), private messages, topics.
