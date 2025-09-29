@@ -23,6 +23,7 @@ Hi! I’m Alex, a 42 Porto student focused on **C/C++**, networks and system pro
 - **[cub3D](https://github.com/Alex-mfs/cub3d)** — raycasting 3D engine in C with MiniLibX (textures, wall collisions, minimap, Wolf3D-style rendering).
 - **[Minishell](https://github.com/Alex-mfs/Minishell)** — small bash-like shell in C with pipes, redirections, `$VAR` expansion, signals, exit status.
 - **[so_long](https://github.com/Alex-mfs/so_long)** — 2D game in C with MiniLibX (map parsing, sprites, collision).
+- **[Philosophers](https://github.com/Alex-mfs/Philosophers)** — concurrent programming, processes and semaphores.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/alex-mfs/
